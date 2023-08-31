@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/personal_web/static/css/main.f346f0d7.css",
+    "main.js": "/personal_web/static/js/main.c0bb6370.js",
+    "static/js/787.676fbc64.chunk.js": "/personal_web/static/js/787.676fbc64.chunk.js",
+    "static/media/work2.png": "/personal_web/static/media/work2.e988aa81873d2f4abd2c.png",
+    "static/media/work1.png": "/personal_web/static/media/work1.2f20c4424fe3d441a256.png",
+    "static/media/bk.jpg": "/personal_web/static/media/bk.5d9686b18991716a6aa9.jpg",
+    "static/media/my1.jpg": "/personal_web/static/media/my1.e04f075f0f6e68ce8cad.jpg",
+    "static/media/Ros_logo.svg": "/personal_web/static/media/Ros_logo.d920684a7bec70991c87b2d407412468.svg",
+    "static/media/react-svgrepo-com.svg": "/personal_web/static/media/react-svgrepo-com.f57b349b4d9df56c9b48c916a8d5adfb.svg",
+    "static/media/ubuntu-svgrepo-com.svg": "/personal_web/static/media/ubuntu-svgrepo-com.bf4bba49ddbe006c1b438b64e7056672.svg",
+    "static/media/python-svgrepo-com.svg": "/personal_web/static/media/python-svgrepo-com.4298525c028749eb4fa154f8f5bd1931.svg",
+    "static/media/mail.svg": "/personal_web/static/media/mail.03c0e9dd796c5dd7ab79d18d60e05ae7.svg",
+    "static/media/js-svgrepo-com.svg": "/personal_web/static/media/js-svgrepo-com.fef7215d0d3e578f01ad70419d4c4308.svg",
+    "static/media/spider-widow-svgrepo-com.svg": "/personal_web/static/media/spider-widow-svgrepo-com.9698858b7dca876d5c2a5e181e49c756.svg",
+    "static/media/down-arrow2-svgrepo-com.svg": "/personal_web/static/media/down-arrow2-svgrepo-com.fc44e6675cd742075cec04d034f66a29.svg",
+    "static/media/docker-svgrepo-com.svg": "/personal_web/static/media/docker-svgrepo-com.afed292d1ba30885c3ef249524b9ee52.svg",
+    "index.html": "/personal_web/index.html",
+    "static/media/right-4-svgrepo-com.svg": "/personal_web/static/media/right-4-svgrepo-com.982bd03d12249f2e0d124a175482b3da.svg",
+    "static/media/microsoft-svgrepo-com.svg": "/personal_web/static/media/microsoft-svgrepo-com.8b2701feef716045b4cce6bf6343b36a.svg",
+    "main.f346f0d7.css.map": "/personal_web/static/css/main.f346f0d7.css.map",
+    "main.c0bb6370.js.map": "/personal_web/static/js/main.c0bb6370.js.map",
+    "787.676fbc64.chunk.js.map": "/personal_web/static/js/787.676fbc64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f346f0d7.css",
+    "static/js/main.c0bb6370.js"
+  ]
+}
