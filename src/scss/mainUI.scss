@@ -1,0 +1,132 @@
+@import url('https://fonts.cdnfonts.com/css/miranda-nbp');
+@import url('https://fonts.cdnfonts.com/css/pattaya');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Pattaya', sans-serif;
+  letter-spacing: 1px;
+}
+.body{
+  background-image: url(../image/bk.jpg);
+  // background-size: cover;
+  // background-repeat: repeat-y;
+  background-attachment: fixed;
+
+  // height: 100vh;
+  // height: 100dvh;
+  width: 100%;
+  
+
+  
+}
+.background-img{
+  background-color: #E5D9B6;
+  
+}
+.nav-bar {
+  z-index: 99;
+  width: 100%;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: sticky;
+  display: flex;
+  flex-direction: row;
+  hr{
+    border: 1px solid rgba(41, 41, 41,0.5);
+  }
+  button{
+    // margin: 1%;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+    background-color: transparent;
+    border-style: none;
+    font-size: 20px;
+  }
+
+}
+.main-page{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  height: 100vh;
+  width: 100%;
+  margin-bottom: 3%;
+  // background-color: rgba(17, 17, 17,0.8);
+  color: #285430;
+  animation: fadeIn 1s ease-in-out;
+  // font-family: 'Miranda NBP', sans-serif;
+  font-family: 'Pattaya', sans-serif;
+                                                
+  letter-spacing: 1px;
+ 
+  .text-1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:flex-start;
+    margin-bottom: 300px;
+    .name{
+      margin-left: 15%;
+      text-shadow: 15px -6px 0px rgba(238, 216, 216, 0.1);
+      font-size: 70px;
+  
+    }
+    .introduce{
+      animation: fadeIn 2s ease-in-out;
+      margin-left: 23%;
+    }
+    
+  }
+  
+  .arrow-down-icon{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    height: 100px;
+
+    animation: arrowDown 1s ;
+    animation-iteration-count: infinite;
+    animation-direction:alternate;
+    background: 0;
+    border: 0;
+    color: #285430;
+    // font: bolder;
+    font-size: 15px;
+    font-family: 'Noto Sans TC', sans-serif;
+    img{
+      cursor: pointer;
+      height: 100px;
+      width: 100px;
+    }
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes arrowDown {
+  from {
+    opacity: 0;
+    transform: translateY(20%);
+  }
+  to{
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
